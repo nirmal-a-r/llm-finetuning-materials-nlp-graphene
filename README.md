@@ -86,6 +86,7 @@ Four transformer-based models were evaluated for domain adaptation:
 **Supervisor**: Dr. Kritesh K. Gupta  
 Assistant Professor, School of AI  
 Amrita Center for Computational Engineering & Networking
+Amrita Vishwa Vidyapeetham – Coimbatore
 
 ---
 
@@ -130,12 +131,13 @@ We used Hugging Face models pre-trained on large corpora and fine-tuned them on 
 
 - **BLEU Score**: To measure overlap in generated vs reference answers.
 - **Perplexity**: To evaluate fluency of generated text.
-- **Graphical Comparisons**: Plots for all models across 80% and 20% test slices and exclusive evaluation with 1000 q and a pair dataset
+- **Graphical Comparisons**: Plots for all models across 80% and 20% test slices and exclusive evaluation with 1000 Q&A pair dataset.
 
 ---
 
 ## 📊 Key Outcomes
 
-- DistilBART outperformed others in BLEU while T5-small maintained lowest perplexity.
+- DistilBART outperformed others in BLEU while T5-small maintained the lowest perplexity.
+- All models were evaluated on the **1000 Q&A pair dataset**, offering comprehensive insights into their performance across multiple metrics.
 - Model performance was visualized across different test sizes and query types.
-- A combined comparative analysis offered insights into tradeoffs between model size and accuracy.
+- A combined comparative analysis offered insights into trade-offs between model size and accuracy.
