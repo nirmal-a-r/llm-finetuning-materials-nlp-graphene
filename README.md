@@ -86,35 +86,34 @@ Four transformer-based models were evaluated for domain adaptation:
 **Supervisor**: Dr. Kritesh K. Gupta  
 Assistant Professor, School of AI  
 Amrita Center for Computational Engineering & Networking
-Amrita Vishwa Vidyapeetham – Coimbatore
 
 ---
 
 ## 📁 File Structure
 
 fine_tuning_project/
-Group_No._8/
-PROJECT_FINAL_PRESENTATION.pptx
-PROJECT_REPORT.docx
-COLAB_CODES/
-20%_TEST_DATA_EVALUATION_GRAPH_CODE.ipynb
-FINAL_GRAPH_CODE-4_MODELS.ipynb
-FT_LLM_BARTBASE.ipynb
-FT_LLM_DISTILBART.ipynb
-FT_LLM_PEGASUS-XSUM.ipynb
-FT_LLM_T5-SMALL.ipynb
-MODELS_COMBINED_FT_GRAPH.ipynb
-DATASETS/
-abstract_summaries_gptstyle.csv
-qanda.csv
-OUTPUT_GRAPHS/
-20%_TEST_DATA_ALL_4_MODEL_OUTPUT.jpg
-ALL_MODEL_COMPARISON_GRAPH-MAJOR.png
-ALL_MODEL_EVALUATION_TABLE.png
-BARTBASE_OUTPUT.png
-DISTILBART_OUTPUT.png
-PEGASUS_XSUM_OUTPUT.png
-T5-SMALL_OUTPUT.png
+    Group_No._8/
+        PROJECT FINAL PRESENTATION.pptx
+        PROJECT REPORT.docx
+        COLAB CODES/
+            20% TEST_DATA EVALUATION GRAPH CODE.ipynb
+            FINAL GRAPH CODE-4 MODELS.ipynb
+            FT_LLM_BARTBASE.ipynb
+            FT_LLM_DISTILBART.ipynb
+            FT_LLM_PEGASUS-XSUM.ipynb
+            FT_LLM_T5-SMALL.ipynb
+            MODELS_COMBINED_FT_GRAPH.ipynb
+        DATASETS/
+            abstract_summaries_gptstyle.csv
+            qanda.csv
+        OUTPUT GRAPHS/
+            20% TEST_DATA ALL 4 MODEL OUTPUT.jpg
+            ALL MODEL COMPARISON GRAPH-MAJOR.png
+            ALL MODEL EVALUATION TABLE.png
+            BARTBASE OUTPUT.png
+            DISTILBART OUTPUT.png
+            PEGASUS XSUM OUTPUT.png
+            T5-SMALL OUTPUT.png
 
 ## 🧠 Models Fine-Tuned
 
