@@ -130,7 +130,7 @@ We used Hugging Face models pre-trained on large corpora and fine-tuned them on 
 
 - **BLEU Score**: To measure overlap in generated vs reference answers.
 - **Perplexity**: To evaluate fluency of generated text.
-- **Graphical Comparisons**: Plots for all models across 80% and 20% test slices.
+- **Graphical Comparisons**: Plots for all models across 80% and 20% test slices and exclusive evaluation with 1000 q and a pair dataset
 
 ---
 
