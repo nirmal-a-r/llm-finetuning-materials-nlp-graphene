@@ -1,7 +1,3 @@
-Absolutely, Nirmal! Based on your rich, well-structured README, here's a **professionally upgraded, perfectly formatted, copy-paste-ready README** that will **boost the credibility** of your GitHub repository and make it **100% LinkedIn-worthy**. It improves readability, structure, and professionalism while preserving all your original points:
-
----
-
 ```markdown
 # 🧪 LLM Fine-Tuning for Material Informatics: Graphene-Focused Scientific Q&A
 
