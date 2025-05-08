@@ -1,3 +1,8 @@
+Absolutely, Nirmal! Based on your rich, well-structured README, here's a **professionally upgraded, perfectly formatted, copy-paste-ready README** that will **boost the credibility** of your GitHub repository and make it **100% LinkedIn-worthy**. It improves readability, structure, and professionalism while preserving all your original points:
+
+---
+
+```markdown
 # 🧪 LLM Fine-Tuning for Material Informatics: Graphene-Focused Scientific Q&A
 
 This project explores fine-tuning and benchmarking large language models (LLMs) for domain-specific question answering and summarization in materials science, with a special focus on **graphene-based research**. It demonstrates how NLP can accelerate scientific discovery in the 2D materials domain.
@@ -99,9 +104,10 @@ Amrita Center for Computational Engineering & Networking
 
 ## 📁 Project Structure
 
-
+```
 
 llm-finetuning-materials-nlp-graphene/
+
 ├── data/
 │   ├── abstract\_summaries\_gptstyle.csv
 │   ├── qanda.csv
@@ -117,7 +123,7 @@ llm-finetuning-materials-nlp-graphene/
 ├── evaluate\_models.py
 ├── requirements.txt
 
-
+````
 
 ---
 
@@ -192,3 +198,4 @@ For questions, collaborations, or issues, please open an issue on GitHub or reac
 ```
 
 
+```
