@@ -1,4 +1,3 @@
-```markdown
 # 🧪 LLM Fine-Tuning for Material Informatics: Graphene-Focused Scientific Q&A
 
 This project explores fine-tuning and benchmarking large language models (LLMs) for domain-specific question answering and summarization in materials science, with a special focus on **graphene-based research**. It demonstrates how NLP can accelerate scientific discovery in the 2D materials domain.
@@ -18,8 +17,8 @@ Graphene, a two-dimensional material known for its exceptional strength and cond
 
 ## 🧠 Models Used
 
-| Model              | Task Type                  | Role     |
-|-------------------|----------------------------|----------|
+| Model              | Task Type                   | Role     |
+|--------------------|-----------------------------|----------|
 | DistilBART-CNN     | Abstractive Summarization   | Decoder  |
 | BART-Base          | Summarization + Q&A         | Decoder  |
 | Pegasus-XSUM       | Abstractive Summarization   | Decoder  |
@@ -103,7 +102,6 @@ Amrita Center for Computational Engineering & Networking
 ```
 
 llm-finetuning-materials-nlp-graphene/
-
 ├── data/
 │   ├── abstract\_summaries\_gptstyle.csv
 │   ├── qanda.csv
@@ -193,5 +191,3 @@ For questions, collaborations, or issues, please open an issue on GitHub or reac
 
 ```
 
-
-```
